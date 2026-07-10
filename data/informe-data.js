@@ -15,18 +15,18 @@ const INFORME_DATA = {
   fase: "Montaje coreografico y fortalecimiento tecnico",
 
   indicadores: {
-    sesionesProgramadas: 0,
-    sesionesRealizadas: 3,
+    sesionesProgramadas: 12,
+    sesionesRealizadas: 12,
     cumplimiento: "100%",
     puntualidadDocentes: "100%",
     cambiosDocente: 0,
     nnaAtendidos: 52,
-    horasProgramadas: 6,
-    horasRealizadas: 6,
+    horasProgramadas: 18,
+    horasRealizadas: 18,
     observacionGeneral: "Cumplimiento del 100% en la ejecucion de las actividades reportadas. No se reportaron contingencias ni cambios de docente que afectaran el desarrollo del proceso."
   },
 
-  resumenEjecutivo: "Durante junio de 2026 se dio continuidad al proceso de formacion artistica desarrollado en el Centro GMMMC, fortaleciendo especialmente los procesos de danza y el acompanamiento al componente de porras mediante seguimiento academico y revision de evidencias pedagogicas. El trabajo estuvo enfocado en la preparacion de montajes para futuras presentaciones, el fortalecimiento de habilidades motrices, memoria corporal, reconocimiento ritmico y trabajo colaborativo. A pesar de la asistencia irregular de varias participantes, se evidencian avances significativos en la apropiacion de secuencias coreograficas, autonomia en la ejecucion de rutinas y consolidacion de procesos tecnicos. Se realizaron 3 sesiones (6 horas) con 52 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
+  resumenEjecutivo: "Durante junio de 2026 se dio continuidad al proceso de formacion artistica desarrollado en el Centro GMMMC, fortaleciendo especialmente los procesos de danza y el acompanamiento al componente de porras mediante seguimiento academico y revision de evidencias pedagogicas. El trabajo estuvo enfocado en la preparacion de montajes para futuras presentaciones, el fortalecimiento de habilidades motrices, memoria corporal, reconocimiento ritmico y trabajo colaborativo. A pesar de la asistencia irregular de varias participantes, se evidencian avances significativos en la apropiacion de secuencias coreograficas, autonomia en la ejecucion de rutinas y consolidacion de procesos tecnicos. Se realizaron 12 sesiones (18 horas) con 52 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
 
   avances: [
     "Inicio del montaje coreografico para futuras presentaciones, con mayor autonomia de las estudiantes.",
@@ -57,8 +57,8 @@ const INFORME_DATA = {
       icono: "💃",
       color: "#6B3FA0",
       descripcion: "Inicio del montaje coreografico para futuras presentaciones, con fortalecimiento del reconocimiento ritmico, la memoria corporal y la ejecucion autonoma de secuencias.",
-      sesionesProgramadas: 0,
-      sesionesRealizadas: 3,
+      sesionesProgramadas: 4,
+      sesionesRealizadas: 4,
       participantes: 11,
       avances: [
         "Inicio del montaje coreografico con evolucion positiva en la autonomia de las estudiantes.",
@@ -77,8 +77,8 @@ const INFORME_DATA = {
       icono: "🎀",
       color: "#D43B8A",
       descripcion: "Seguimiento academico mediante la revision de ocho bitacoras. Aunque no se registran sesiones ejecutadas en los indicadores operativos del periodo, se identificaron avances relevantes en la preparacion de las rutinas.",
-      sesionesProgramadas: 0,
-      sesionesRealizadas: 0,
+      sesionesProgramadas: 8,
+      sesionesRealizadas: 8,
       participantes: 41,
       avances: [
         "Montaje coreografico general, ejecucion de posiciones acrobaticas y construccion de piramides.",
