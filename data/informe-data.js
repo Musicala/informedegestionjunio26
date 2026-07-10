@@ -20,13 +20,13 @@ const INFORME_DATA = {
     cumplimiento: "100%",
     puntualidadDocentes: "100%",
     cambiosDocente: 0,
-    nnaAtendidos: 11,
+    nnaAtendidos: 52,
     horasProgramadas: 6,
     horasRealizadas: 6,
     observacionGeneral: "Cumplimiento del 100% en la ejecucion de las actividades reportadas. No se reportaron contingencias ni cambios de docente que afectaran el desarrollo del proceso."
   },
 
-  resumenEjecutivo: "Durante junio de 2026 se dio continuidad al proceso de formacion artistica desarrollado en el Centro GMMMC, fortaleciendo especialmente los procesos de danza y el acompanamiento al componente de porras mediante seguimiento academico y revision de evidencias pedagogicas. El trabajo estuvo enfocado en la preparacion de montajes para futuras presentaciones, el fortalecimiento de habilidades motrices, memoria corporal, reconocimiento ritmico y trabajo colaborativo. A pesar de la asistencia irregular de varias participantes, se evidencian avances significativos en la apropiacion de secuencias coreograficas, autonomia en la ejecucion de rutinas y consolidacion de procesos tecnicos. Se realizaron 3 sesiones (6 horas) con 11 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
+  resumenEjecutivo: "Durante junio de 2026 se dio continuidad al proceso de formacion artistica desarrollado en el Centro GMMMC, fortaleciendo especialmente los procesos de danza y el acompanamiento al componente de porras mediante seguimiento academico y revision de evidencias pedagogicas. El trabajo estuvo enfocado en la preparacion de montajes para futuras presentaciones, el fortalecimiento de habilidades motrices, memoria corporal, reconocimiento ritmico y trabajo colaborativo. A pesar de la asistencia irregular de varias participantes, se evidencian avances significativos en la apropiacion de secuencias coreograficas, autonomia en la ejecucion de rutinas y consolidacion de procesos tecnicos. Se realizaron 3 sesiones (6 horas) con 52 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
 
   avances: [
     "Inicio del montaje coreografico para futuras presentaciones, con mayor autonomia de las estudiantes.",
@@ -79,7 +79,7 @@ const INFORME_DATA = {
       descripcion: "Seguimiento academico mediante la revision de ocho bitacoras. Aunque no se registran sesiones ejecutadas en los indicadores operativos del periodo, se identificaron avances relevantes en la preparacion de las rutinas.",
       sesionesProgramadas: 0,
       sesionesRealizadas: 0,
-      participantes: 11,
+      participantes: 41,
       avances: [
         "Montaje coreografico general, ejecucion de posiciones acrobaticas y construccion de piramides.",
         "Apropiacion de marcaciones, memoria corporal y acondicionamiento fisico.",
